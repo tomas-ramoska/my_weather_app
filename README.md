@@ -19,13 +19,14 @@ A lightweight Python weather application that fetches and displays current weath
 
 1. Clone or download this project
 2. Install dependencies:
+
    ```bash
-  pip install requests
+   pip install requests
    ```
-  Or with uv:
-  ```bash
-  uv add requests
-  ```
+   Or with uv:
+   ```bash
+   uv add requests
+   ```
 
 ## Usage
 
